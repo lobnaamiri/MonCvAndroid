@@ -2,20 +2,35 @@
     <string name="app_name">Lobna AMIRI CV</string>
     <string name="FULL8NAME">Feyez FRIKHA </string>
     <string name="btn_add">add</string>
-    <string name="ex1">\n July – 2019 (2 Months and half) : \n Software development company " StartDevlopment ",Tunis, \n
-        The initiation intership of a 1st year software engineering: \n
-        Web application  " Au Pluriel " ( Bootstrap – Angular ) </string>
-    <string name="ex2"> \n January –    2018   (5   Months)   :\n
-        Software development company " Dar BlockChain ", Tunis,\n
-        the end-of-course internship : Android Application \n
-        " Decentral Magazine "  </string>
-    <string name="ex3">\n January – 2017 (2 Months) : \n Software development company " COM’UNIQUE ", Sfax,Tunisia \n
-        intensive professional intership : \n Web site " Club Miami de sport ".</string>
-    <string name="ex4">\n August – 2016 (1 Month) : \n
-        IT maintenance service at " Tunisie Télécom ", Sfax,Tunisia \n
-        computer technician intership.</string>
-    <string name="ex5">\n January – 2016 (1 Month) : \n" MediaCity ", Sfax,Tunisia \n The initiation intership of a 1st year about licence: \n
-        web application (SAV) </string>
-    <string name="ex6">\n June 2016 (3 Months) || Juin 2017 (3  Months) || Juin 2018  (3 Months) : \n
-        A.I.C, company , Sfax,Tunisia Seasonal work :  \n delivering hardware, data media and consoles, etc… \n  </string>
+
+<string name="ex1">\n July – 2019 (2 Months and half) : \n Software development company " StartDevlopment ",Tunis, \n The initiation intership of a 1st year software engineering:
+                        \n Web application  " Au Pluriel " ( Bootstrap – Angular ) </string>
+<string name="ex2"> \n January –    2018   (5   Months)   :\n Software development company " Dar BlockChain ", Tunis,\n the end-of-course internship : Android Application \n " Decentral Magazine "  </string>
+<string name="ex3">\n January – 2017 (2 Months) : \n Software development company " COM’UNIQUE ", Sfax,Tunisia \n intensive professional intership : \n Web site " Club Miami de sport ".</string>
+<string name="ex4">\n August – 2016 (1 Month) : \n IT maintenance service at " Tunisie Télécom ", Sfax,Tunisia \n computer technician intership.</string>
+<string name="ex5">\n January – 2016 (1 Month) : \n" MediaCity ", Sfax,Tunisia \n The initiation intership of a 1st year about licence: \n web application (SAV) </string>
+<string name="ex6">\n June 2016 (3 Months) || Juin 2017 (3  Months) || Juin 2018  (3 Months) : \n A.I.C, company , Sfax,Tunisia Seasonal work : \n delivering hardware, data media and consoles, etc… \n</string>
+
+
+<string name="certif_1">2020  Microsoft Technology Associate « MTA » Software Development Fundamentals.</string>
+<string name="certif_2">2019  Oracle Académie « JAVA fondations »</string>
+<string name="certif_3">2019  CISCO  «  CCNA_1  »</string>
+<string name="certif_4">2018  PYTHON  Fundamentals 1.</string>
+<string name="certif_5">2017  Microsoft Object Oriented Programming (C #).</string>
+<string name="certif_6">2017  Coache in Xamarin-code of X-coding Challenge.</string>
+<string name="certif_7">2016  Hour of code.</string>
+
+
+<string name="langue_1">English: B1.</string>
+<string name="langue_2">French: B1 – TCF 2018.</string>
+<string name="langue_3">Arabic : mother tongue.</string>
+
+
+<string name="INFORMATION__1">Born on the 12th September 1996 -- 23 years</string>
+<string name="INFORMATION__2">2015 Driving license : B</string>
+
+
+
+
+
 </resources>

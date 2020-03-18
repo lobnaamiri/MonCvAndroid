@@ -2,5 +2,20 @@
     <string name="app_name">Lobna AMIRI CV</string>
     <string name="FULL8NAME">Feyez FRIKHA </string>
     <string name="btn_add">add</string>
-    <string name="btn_chose_photo">Choose profile photo</string>
+    <string name="ex1">\n July – 2019 (2 Months and half) : \n Software development company " StartDevlopment ",Tunis, \n
+        The initiation intership of a 1st year software engineering: \n
+        Web application  " Au Pluriel " ( Bootstrap – Angular ) </string>
+    <string name="ex2"> \n January –    2018   (5   Months)   :\n
+        Software development company " Dar BlockChain ", Tunis,\n
+        the end-of-course internship : Android Application \n
+        " Decentral Magazine "  </string>
+    <string name="ex3">\n January – 2017 (2 Months) : \n Software development company " COM’UNIQUE ", Sfax,Tunisia \n
+        intensive professional intership : \n Web site " Club Miami de sport ".</string>
+    <string name="ex4">\n August – 2016 (1 Month) : \n
+        IT maintenance service at " Tunisie Télécom ", Sfax,Tunisia \n
+        computer technician intership.</string>
+    <string name="ex5">\n January – 2016 (1 Month) : \n" MediaCity ", Sfax,Tunisia \n The initiation intership of a 1st year about licence: \n
+        web application (SAV) </string>
+    <string name="ex6">\n June 2016 (3 Months) || Juin 2017 (3  Months) || Juin 2018  (3 Months) : \n
+        A.I.C, company , Sfax,Tunisia Seasonal work :  \n delivering hardware, data media and consoles, etc… \n  </string>
 </resources>

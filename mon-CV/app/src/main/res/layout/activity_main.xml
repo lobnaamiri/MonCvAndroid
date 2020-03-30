@@ -315,6 +315,201 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal">
 
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView1111"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView1111"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_1"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView1112"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView1113"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView1113"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_2"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView1114"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView1115"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView1115"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_3"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView1116"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView1117"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView115"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_4"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView1118"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView1119"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView1119"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_5"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView1120"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView121"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView121"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_6"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView122"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="70dp"
+                        android:orientation="horizontal">
+
+                        <ImageView
+                            android:id="@+id/imageView123"
+                            android:layout_width="25dp"
+                            android:layout_height="40dp"
+                            app:srcCompat="@drawable/certif" />
+
+                        <TextView
+                            android:id="@+id/textView123"
+                            android:layout_width="300dp"
+                            android:layout_height="wrap_content"
+                            android:text="@string/certif_7"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:id="@+id/imageView124"
+                            android:layout_width="20dp"
+                            android:layout_height="30dp"
+                            android:layout_weight="1"
+                            app:srcCompat="@drawable/flech" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
                 <TextView
                     android:id="@+id/textView_SKILLS"
                     android:layout_width="match_parent"
